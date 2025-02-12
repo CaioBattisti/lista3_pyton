@@ -3,9 +3,9 @@
 cor =input("digite sua cor favorita: ")
 if cor == ("Vermelho"):
     print("eu tambem gosto de Vermelho")
-if cor == ("vermelho"):
+elif cor == ("vermelho"):
     print("eu tambem gosto de vermelho")
-if cor == ("VERMELHO"):
+elif cor == ("VERMELHO"):
     print("eu tambem gosto de VERMELHO")
 else:
     print("eu nao gosto do ",cor," eu prefiro vermelho")
