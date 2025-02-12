@@ -4,8 +4,6 @@ num2 =int(input("digite outro numero:"))
 if num1 > num2:
     print(num2)
     print(num1)
-    print("Caio Luiz Battisti")
 else:
     print(num1)
     print(num2)
-    print("Caio Luiz Battisti")
