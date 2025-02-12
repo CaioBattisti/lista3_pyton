@@ -8,6 +8,6 @@ if clima =="sim":
     if clima == "sim":
         print("esta ventando muito para um guarda-chuva.")
     else:
-        print("pegue um charda-chuva.")
+        print("pegue um guarda-chuva.")
 else:
     print("aproveite seu dia.")
