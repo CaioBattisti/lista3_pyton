@@ -6,11 +6,11 @@ if renda < 2259.20:
 
 elif renda >= 2259.20 and renda <= 2826.65:
     imposto = renda * 0.075
-    print("foi descontado 7,5%:",imposto)
+    print("foi descontado 7,5%:",imposto,)
 
 elif renda >= 2826.66 and renda <=3751.05:
     imposto = renda * 0.15
-    print("foi descontado 15%:",imposto)
+    print("foi descontado 15%:",imposto,)
 
 elif renda >=  3751.06 and renda <= 4664.68:
     imposto = renda * 0.225
@@ -18,4 +18,4 @@ elif renda >=  3751.06 and renda <= 4664.68:
 
 elif renda > 4664.68:
     imposto = renda * 0.275
-    print("voce foi descontado27.5%:",imposto)
+    print("voce foi descontado 27.5%:",imposto,)
